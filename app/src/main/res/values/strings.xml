@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gomoku</string>
+    <string name="status_player_turn">当前轮到：%1$s</string>
+    <string name="status_winner">%1$s 获胜！</string>
+    <string name="status_draw">平局！</string>
+    <string name="player_black">黑棋</string>
+    <string name="player_white">白棋</string>
+    <string name="action_reset">重新开始</string>
+</resources>
